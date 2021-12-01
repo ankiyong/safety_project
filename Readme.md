@@ -1,24 +1,43 @@
-## 공공 데이터를 활용한 탐색적 데이터 처리및 분석
+## 문제해결을 위한 빅데이터 활용 프로젝트
 
-#### 주제:서울시 지역구별 치안 요인 분석
+#### 1.Project
 
-개요: 공공데이터등을 이용하여 5대 요인별로 분류및 자치구별 치안 상태 확인및 자치구별 치안 종합 순위
+- 서울시 지역구별 치안 요인 분석
+
+#### 2. Description
+
+- 지역 치안에 영향을 주는 요인을 바탕으로 서울시 지역구별 치안 수준 분석을 위한 학습데이터를 구축하고 시각화
+
+#### 3. Role
+
+- 서울시 치안 관련 데이터 크롤링
+- 데이터 전처리
+- 수집 정보 시각화
+- Database구축
+- AWS 개발 환경 구축
+- 결과 웹 페이지 구축
+
+#### 4. Skill
+
+- Python
+- Spark
+- Hadoop
+- Django
+- AWS
+- Bs4
+- Pandas
+- Matplotlib
+- Folium
+
+#### 5. Outputs
+
+![image-20211201101419553](Readme.assets/image-20211201101419553.png)
+
+![image-20211201101358736](Readme.assets/image-20211201101358736.png)
 
 
 
-Hadoop을 기반으로 SPARK등를 활용하여 탐색적 분석, AWS 서버구축및 Django을 활용한 웹 구현
 
-
-
-개발 환경: front - python / back -  MySQL, Python, Hadoop, Spark / framework-Django / server - AWS
-
-​				  /Analytics-pandas,Zeplin
-
- Languages : Python
-
- library: Crawling( Beautiful Soup, Selenium, Requset)
-
-​		   	Analytics(Matplotib,Seaborn,Folium,Plotly,VisulAnalysis)
 
 ​	
 
