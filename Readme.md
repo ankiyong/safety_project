@@ -1,35 +1,78 @@
 ## 문제해결을 위한 빅데이터 활용 프로젝트
 
-#### 1.Project
+## Description
 
-- 서울시 지역구별 치안 요인 분석
+- 서울시 지역구별 치안 요인 분석을 위한 학습 데이터 구축 및 시각화
 
-#### 2. Description
 
-- 지역 치안에 영향을 주는 요인을 바탕으로 서울시 지역구별 치안 수준 분석을 위한 학습데이터를 구축하고 시각화
+***
+## ***Skill***
 
-#### 3. Role
+<div>
+<img src='README.assets/Python-Symbol.png' width=200px >
+<img src='README.assets/django.png' width=200px>
+<br></br>
+<img src='README.assets/bs.png' width=200px>
+<img src='README.assets/pandas.jpeg' width=200px>
+<br></br>
+<!-- <br></br> -->
+<img src='README.assets/vmware.jpeg' width=250px>
+<img src='README.assets/aws.png' width=150px>
+<br></br>
+<!-- <br></br> -->
+<img src='README.assets/mysql.png' width=200px>
+<img src='README.assets/hadoop.png' width=200px>
+<br></br>
+<img src='README.assets/spark.png' width=200px>
+<img src='README.assets/matplotlib.png' width=200px>
+<br></br>
+<img src='README.assets/folium.png' width=200px>
+</span>
+</div>
 
-- 서울시 치안 관련 데이터 크롤링
-- 데이터 전처리
-- 수집 정보 시각화
-- Database구축
+
+
+
+
+
+## ***Role***
+
+- 빅데이터포털,서울 열린데이터광장 등의 사이트에서 치안 관련 공공 데이터 크롤링
+- Spark를 사용하여 데이터 전처리
+- Matplotlib,Folium을 사용하여 수집 정보 시각화
+- Mysql에 Database구축
 - AWS 개발 환경 구축
-- 결과 웹 페이지 구축
+- Django 기반의 결과 웹 페이지 구축
 
-#### 4. Skill
+# ***Outputs***
 
-- Python
-- Spark
-- Hadoop
-- Django
-- AWS
-- Bs4
-- Pandas
-- Matplotlib
-- Folium
+### **1. Django로 구현한 결과 페이지**                   
 
-#### 5. Outputs
+##### 관광 인프라 지도 시각화
+
+
+    
+[Page Link](http://13.209.117.128:8000) | [Source Code Link](https://github.com/ankiyong/safety_project/tree/master/5.D_jango/data_django)
+    
+
+![README.assets/gif.gif](README.assets/seoul.png)
+
+![README.assets/buy.gif](README.assets/map.png)
+
+
+### **2. Dashboard**
+
+  ##### 수집한 데이터로 dashboard를 만들어 시각화 진행
+      
+   [Dashboard Link](https://day-car.com/dash/#)
+       
+![README.assets/dash.png](README.assets/dash.png)
+    
+    
+    
+
+-
+### **2. 최종 ERD**
 
 ![image-20211201101419553](Readme.assets/image-20211201101419553.png)
 
@@ -65,22 +108,3 @@
 > ​				 범죄예방환경설계(CPTED) 가이드라인
 >
 > ​				 범죄 분야 지역안전지수 산출방식에 관한 연구
-
-
-
-FInal web_page: 
-
-Django : http://52.197.177.14:8000/
-
-zeppelin: http://52.197.177.14:8982/#/notebook/2GGKC7UGV
-
-jupyter: http://52.197.177.14:8911/login?next=%2Fnotebooks%2Fseoul_crime_info.ipynb
-
-
-
-
-
-
-
-
-
