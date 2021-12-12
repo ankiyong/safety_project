@@ -65,7 +65,7 @@
 
   ##### 수집한 데이터로 dashboard를 만들어 시각화 진행
       
-   [Dashboard Link](https://day-car.com/dash/#)
+   [Dashboard Link](http://13.209.117.128:8000/dash)
        
 ![README.assets/dash.png](README.assets/dash.png)
     
