@@ -52,9 +52,9 @@
 ##### 서울시 지역구 치안 수준 지도 시각화
 
 
-    
+​    
 [Page Link](http://13.209.117.128:8000) | [Source Code Link](https://github.com/ankiyong/safety_project/tree/master/5.D_jango/data_django)
-    
+​    
 
 ![README.assets/gif.gif](README.assets/seoul.png)
 
@@ -64,15 +64,12 @@
 ### **2. 데이터 시각화**
 
   ##### 수집한 데이터로 dashboard를 만들어 시각화 진행
-      
+
    [Dashboard Link](http://13.209.117.128:8000/dash)
        
-![README.assets/dash.png](README.assets/dash.png)
-    
-    
+ 
     
 
--
 ### **2. 최종 ERD 및 DB Schema**
 
 ![image-20211201101419553](Readme.assets/image-20211201101419553.png)
