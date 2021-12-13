@@ -10,7 +10,7 @@
 ## ***Skill***
 
 <div>
-<img src='README.assets/Python-Symbol.png' width=200px >
+<img src='README.assets/Python-Symbol.png' width=200px>
 <img src='README.assets/django.png' width=200px>
 <br></br>
 <img src='README.assets/bs.png' width=200px>
