@@ -72,9 +72,10 @@
 
 ### **2. 최종 ERD 및 DB Schema**
 
-![image-20211201101419553](Readme.assets/image-20211201101419553.png)
+![erd](Readme.assets/erd.png)
+![schema](Readme.assets/schema.png)
 
-![image-20211201101358736](Readme.assets/image-20211201101358736.png)
+
 
 
 
