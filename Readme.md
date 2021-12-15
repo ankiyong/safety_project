@@ -11,6 +11,7 @@
 
 <!-- ![python](Readme.assets/Python-Symbol.png){width="100"} -->
 <div>
+<span>
 <img src="./README.assets/Python-Symbol.png" width=180px>
 <img src='README.assets/django.png' width=180px>
 <br></br>
