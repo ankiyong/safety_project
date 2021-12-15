@@ -30,6 +30,7 @@
 <img src='README.assets/matplotlib.png' width=180px>
 <br></br>
 <img src='README.assets/folium.png' width=180px>
+<img src='_images/bs.png'>
 </span>
 </div>
 
