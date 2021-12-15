@@ -12,25 +12,25 @@
 <!-- ![python](Readme.assets/Python-Symbol.png){width="100"} -->
 <div>
 <span>
-<img src="./README.assets/Python-Symbol.png" width=180px>
-<img src='README.assets/django.png' width=180px>
+<img src="_images/Python-Symbol.png" width=180px>
+<img src='_images/django.png' width=180px>
 <br></br>
-<img src='README.assets/bs.png' width=180px>
-<img src='README.assets/pandas.jpeg' width=180px>
-<br></br>
-<!-- <br></br> -->
-<img src='README.assets/vmware.jpeg' width=245px>
-<img src='README.assets/aws.png' width=145px>
+<img src='_images/bs.png' width=180px>
+<img src='_images/pandas.jpeg' width=180px>
 <br></br>
 <!-- <br></br> -->
-<img src='README.assets/mysql.png' width=180px>
-<img src='README.assets/hadoop.png' width=180px>
+<img src='_images/vmware.jpeg' width=245px>
+<img src='_images/aws.png' width=145px>
 <br></br>
-<img src='README.assets/spark.png' width=180px>
-<img src='README.assets/matplotlib.png' width=180px>
+<!-- <br></br> -->
+<img src='_images/mysql.png' width=180px>
+<img src='_images/hadoop.png' width=180px>
 <br></br>
-<img src='README.assets/folium.png' width=180px>
-<img src='_images/bs.png'>
+<img src='_images/spark.png' width=180px>
+<img src='_images/matplotlib.png' width=180px>
+<br></br>
+<img src='_images/folium.png' width=180px>
+
 </span>
 </div>
 
