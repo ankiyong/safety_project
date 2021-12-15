@@ -56,9 +56,10 @@
 [Page Link](http://13.209.117.128:8000) | [Source Code Link](https://github.com/ankiyong/safety_project/tree/master/5.D_jango/data_django)
 ​    
 
-![README.assets/seoul.png](README.assets/seoul.png)
+![main](Readme.assets/seoul.png)
+![map](Readme.assets/map.png)
 
-![README.assets/map.png](README.assets/map.png)
+
 
 
 ### **2. 데이터 시각화**
