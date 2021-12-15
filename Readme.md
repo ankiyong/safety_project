@@ -65,8 +65,8 @@
 
   ##### 수집한 데이터로 dashboard를 만들어 시각화 진행
 
-   [Dashboard Link](http://13.209.117.128:8000/dash)
-       
+   [DashboardLink](http://13.209.117.128:8000/dash)
+![dashboard](Readme.assets/dash.png) 
  
     
 
