@@ -10,6 +10,24 @@
 ## ***Skill***
 
 <div>
+<img src='README.assets/Python-Symbol.png' width=200px >
+<img src='README.assets/django.png' width=200px>
+<br></br>
+<!-- <img src='README.assets/BeautifulSoup.png' width=200px> -->
+<img src='README.assets/pandas.jpeg' width=200px>
+<br></br>
+<br></br>
+<img src='README.assets/vmware.jpeg' width=250px>
+<img src='README.assets/aws.png' width=150px>
+<br></br>
+<br></br>
+<img src='README.assets/mysql.png' width=200px>
+<img src='README.assets/hadoop.png' width=200px>
+<br></br>
+<img src='README.assets/spark.png' width=200px>
+</span>
+</div>
+<div>
 <img src="README.assets/Python-Symbol.png" width=180px>
 <img src='README.assets/django.png' width=180px>
 <br></br>
@@ -28,7 +46,7 @@
 <img src='README.assets/matplotlib.png' width=180px>
 <br></br>
 <img src='README.assets/folium.png' width=180px>
-
+</span>
 </div>
 
 
